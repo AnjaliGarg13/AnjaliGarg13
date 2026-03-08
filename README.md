@@ -109,7 +109,7 @@ Now I'm most interested in the edges where **AI meets human behavior**: how it c
 ## Awards & Recognition
 
 - Winner, **Smart India Hackathon 2019**
-- Finalist, **Optum National Strategy Hackathon 2019**
+- **Project Impact Scholar**, Kellogg Social Impact & Sustainability Entrepreneurship
 - **300+ hours** of technical coaching for unemployed women from underserved communities (GoogleServe)
 - Board Member, **Chicago Cares**: Volunteer loyalty program for retention & engagement
 
