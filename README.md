@@ -4,11 +4,9 @@
   <em>Ex-Google SWE · MBA @ Kellogg · AI × Marketing × Mental Health</em>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/anjali-garg-b8025a168/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:anjali.131garg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Evanston%2C_IL-Northwestern-4E2A84?style=for-the-badge" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-garg-b8025a168/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anjali.131garg@gmail.com)
+![Location](https://img.shields.io/badge/Evanston%2C_IL-Northwestern-4E2A84?style=for-the-badge)
 
 ---
 
