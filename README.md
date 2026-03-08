@@ -43,9 +43,10 @@ My focus right now: how AI is fundamentally changing **marketing**, **consumer b
 
 **AI / ML**
 
-![GenAI](https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-00A67E?style=flat-square&logo=openai&logoColor=white)
-![AI Agents](https://img.shields.io/badge/AI%20Agents-FF6B35?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white)
+![AI Agents](https://img.shields.io/badge/Agentic%20AI-FF6B35?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-00A67E?style=flat-square)
+![LLM Orchestration](https://img.shields.io/badge/LLM%20Orchestration-000000?style=flat-square)
 
 **Product & Engineering**
 
