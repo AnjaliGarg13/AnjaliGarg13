@@ -6,21 +6,21 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anjali-garg-b8025a168/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:anjali.131garg@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Location-Evanston%2C%20IL-blue?style=for-the-badge" />
+  <a href="mailto:anjali.131garg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Evanston%2C_IL-Northwestern-4E2A84?style=for-the-badge" />
 </p>
 
 ---
 
 ## About Me
 
-Software engineer turned product builder. Shipped at scale as a **Senior SWE at Google** — integrating Gemini into enterprise products, leading cross-functional teams, and touching everything from $1.2B public-sector contracts to SMB strategy. Now an MBA candidate at **Kellogg (Northwestern)**, going deep on AI, marketing, and entrepreneurship.
+Software engineer turned product builder. Shipped at scale as a **Senior Software Engineer at Google Workspace**. Now an MBA candidate at **Kellogg (Northwestern)**, going deep on AI, marketing, and entrepreneurship.
 
-My focus right now: how AI is fundamentally changing **marketing**, **consumer behavior**, and **mental health care** — and what it means to build in those spaces.
+My focus right now: how AI is fundamentally changing **marketing**, **consumer behavior**, and **mental health care** and what it means to build in those spaces.
 
 - **Building** an AI-powered mental wellness platform for postpartum women in underserved communities *(coming soon)*
 - **Studying** how LLMs are rewiring go-to-market strategy, brand, and customer intelligence
-- **Exploring** the product and business layer on top of AI — not just the models, but what they unlock
+- **Exploring** the product and business layer on top of AI, not just the models, but what they unlock
 
 ---
 
@@ -81,12 +81,11 @@ Continuous, culturally sensitive, multilingual mental health support for underse
 ```
 2019  →  SWE Intern @ Google Maps (Mountain View, CA)
 2020  →  SWE Intern @ Google Workspace
-2021  →  SWE @ Google Workspace — Built cross-platform admin app for 2M users
+2021  →  SWE @ Google Workspace
 2023  →  Senior SWE + Technical Product Lead @ Google Workspace
-          └─ Integrated Gemini AI · $1.2B public-sector contracts · $20B SMB strategy
-2024  →  MBA @ Kellogg (Northwestern) — AI, Marketing, Entrepreneurship
+2024  →  MBA @ Kellogg (Northwestern) · AI, Marketing, Entrepreneurship
           └─ Building Myndra Health
-2025  →  PM Intern @ Cisco — AI/ML market strategy for data center infrastructure
+2025  →  PM Intern @ Cisco · AI/ML market strategy for data center infrastructure
 2026  →  Graduating June 2026 · Open to PM / AI Product / Founder roles
 ```
 
@@ -94,9 +93,9 @@ Continuous, culturally sensitive, multilingual mental health support for underse
 
 ## What Drives Me
 
-Engineer by training. Product builder by instinct. I went deep on software at Google — then went broad with an MBA to understand the markets, the users, and the strategy behind what we build.
+Engineer by training. Product builder by instinct. I went deep on software at Google, then went broad with an MBA to understand the markets, the users, and the strategy behind what we build.
 
-Now I'm most interested in the edges where **AI meets human behavior** — how it changes the way people buy, the way brands grow, and the way people access care. That's where I want to build.
+Now I'm most interested in the edges where **AI meets human behavior**: how it changes the way people buy, the way brands grow, and the way people access care. That's where I want to build.
 
 ---
 
@@ -118,7 +117,7 @@ Now I'm most interested in the edges where **AI meets human behavior** — how i
 - Winner, **Smart India Hackathon 2019**
 - Finalist, **Optum National Strategy Hackathon 2019**
 - **300+ hours** of technical coaching for unemployed women from underserved communities (GoogleServe)
-- Board Member, **Chicago Cares** — Volunteer loyalty program for retention & engagement
+- Board Member, **Chicago Cares**: Volunteer loyalty program for retention & engagement
 
 ---
 
