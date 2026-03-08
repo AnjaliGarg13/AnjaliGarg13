@@ -100,11 +100,6 @@ Now I'm most interested in the edges where **AI meets human behavior**: how it c
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjaligarg13&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjaligarg13&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=anjaligarg13&theme=tokyonight&hide_border=true" />
 </p>
 
