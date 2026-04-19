@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anjali Garg 👋</h1>
 
 <p align="center">
-  <em>Ex-Google SWE · MBA @ Kellogg · AI × Marketing × Mental Health</em>
+  <em>AI Product Manager · Ex-Google SWE · MBA @ Kellogg · Building in Health × AI</em>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-garg-b8025a168/)
@@ -12,22 +12,22 @@
 
 ## About Me
 
-Software engineer turned product builder. Shipped at scale as a **Senior Software Engineer at Google Workspace**. Now an MBA candidate at **Kellogg (Northwestern)**, going deep on AI, marketing, and entrepreneurship.
+Engineer turned AI product manager. Shipped at scale as a **Senior Software Engineer at Google Workspace** (2M+ SMB users), then pivoted to product to build at the intersection of AI and real user outcomes.
 
-My focus right now: how AI is fundamentally changing **marketing**, **consumer behavior**, and **mental health care** and what it means to build in those spaces.
+Now an MBA candidate at **Kellogg (Northwestern)**, co-founding **Ivara** — an AI-powered maternal health platform — and targeting AI PM / Senior PM roles at AI labs and high-growth tech companies.
 
-- **Building** an AI-powered mental wellness platform for postpartum women in underserved communities *(coming soon)*
-- **Studying** how LLMs are rewiring go-to-market strategy, brand, and customer intelligence
-- **Exploring** the product and business layer on top of AI, not just the models, but what they unlock
+- **Building** Ivara: RAG-powered maternal health companion, backed by a clinical specialist network
+- **Shipping** an AI job search agent using Claude + TypeScript — end-to-end pipeline from discovery to application
+- **Studying** how LLMs are rewiring product strategy, GTM, and consumer behavior
 
 ---
 
 ## What I'm Working On
 
 ```text
-🧠  Mental Health Tech  →  Building AI-powered support for postpartum women in India
-🤖  AI × Marketing      →  How LLMs are rewriting GTM, brand, and customer intelligence
-📚  Kellogg MBA         →  AI, Strategy, Marketing, Entrepreneurship — graduating June 2026
+🤱  Ivara              →  AI maternal health platform · RAG + specialist oversight model
+🤖  AI Job Agent       →  Agentic pipeline: discover → evaluate → tailor → apply (Claude + TS)
+📚  Kellogg MBA        →  AI, Strategy, Marketing, Entrepreneurship — graduating June 2026
 ```
 
 ---
@@ -39,6 +39,7 @@ My focus right now: how AI is fundamentally changing **marketing**, **consumer b
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 **AI / ML**
@@ -47,6 +48,7 @@ My focus right now: how AI is fundamentally changing **marketing**, **consumer b
 ![AI Agents](https://img.shields.io/badge/Agentic%20AI-FF6B35?style=flat-square)
 ![RAG](https://img.shields.io/badge/RAG-00A67E?style=flat-square)
 ![LLM Orchestration](https://img.shields.io/badge/LLM%20Orchestration-000000?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=flat-square)
 
 **Product & Engineering**
 
@@ -58,7 +60,6 @@ My focus right now: how AI is fundamentally changing **marketing**, **consumer b
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
@@ -66,12 +67,21 @@ My focus right now: how AI is fundamentally changing **marketing**, **consumer b
 
 ## Featured Projects
 
-### Myndra Health *(coming soon)*
-> AI-powered mental wellness platform for postpartum women in India
+### [Ivara](https://github.com/anjaligarg13/ivara) — AI Maternal Health Platform
+> RAG-powered companion for maternal and postpartum care
 
-Continuous, culturally sensitive, multilingual mental health support for underserved women who have little to no access to professional care. Built on the belief that AI can close gaps that traditional healthcare systems can't reach.
+Designed product architecture around an AI-human hybrid model: LLM-powered companion backed by a network of 10+ clinical specialists. Built for India's urban professional segment. Leading all product, user research (50+ hours with mothers, OBGYNs, dieticians), and go-to-market.
 
-`AI` `Mental Health Tech` `LLM` `Product` `Social Impact`
+`TypeScript` `RAG` `AI` `Health Tech` `0-to-1`
+
+---
+
+### AI Job Search Agent *(private)*
+> End-to-end agentic pipeline: job discovery → evaluation → resume tailoring → application
+
+Multi-agent system built on Claude + TypeScript. Orchestrator dispatches specialized agents (evaluator, resume-tailor, cover-letter writer, form-filler, tracker). Scores roles 0–100 across role fit, seniority, compensation, and industry fit. Runs entirely locally.
+
+`Claude API` `TypeScript` `AI Agents` `LLM Orchestration` `Agentic Systems`
 
 ---
 
@@ -80,21 +90,20 @@ Continuous, culturally sensitive, multilingual mental health support for underse
 ```
 2019  →  SWE Intern @ Google Maps (Mountain View, CA)
 2020  →  SWE Intern @ Google Workspace
-2021  →  SWE @ Google Workspace
-2023  →  Senior SWE + Technical Product Lead @ Google Workspace
-2024  →  MBA @ Kellogg (Northwestern) · AI, Marketing, Entrepreneurship
-          └─ Building Myndra Health
-2025  →  PM Intern @ Cisco · AI/ML market strategy for data center infrastructure
-2026  →  Graduating June 2026 · Open to PM / AI Product / Founder roles
+2021  →  SWE → Senior SWE / Technical Product Lead @ Google Workspace
+2024  →  MBA @ Kellogg (Northwestern) · AI, Strategy, Marketing
+          └─ Co-founding Ivara (AI maternal health)
+2025  →  PM Intern @ Cisco · AI/ML market strategy, compute economics modeling
+2026  →  Graduating June 2026 · Targeting AI PM / Senior PM roles
 ```
 
 ---
 
 ## What Drives Me
 
-Engineer by training. Product builder by instinct. I went deep on software at Google, then went broad with an MBA to understand the markets, the users, and the strategy behind what we build.
+Engineer by training. Product builder by instinct. I went deep on software at Google — shipped 0-to-1 products, led cross-functional teams, built for millions of users. Then I went broad with an MBA to close the gap between technical systems and market strategy.
 
-Now I'm most interested in the edges where **AI meets human behavior**: how it changes the way people buy, the way brands grow, and the way people access care. That's where I want to build.
+I'm most interested in building AI products where the technical architecture *is* the product decision — where what you choose to build with LLMs, agents, and RAG directly shapes the user experience. That's the PM work I want to do.
 
 ---
 
@@ -110,11 +119,11 @@ Now I'm most interested in the edges where **AI meets human behavior**: how it c
 
 - Winner, **Smart India Hackathon 2019**
 - **Project Impact Scholar**, Kellogg Social Impact & Sustainability Entrepreneurship
-- Board Member, **Chicago Cares**: Volunteer loyalty program for retention & engagement
+- Board Member, **Chicago Cares** — designed volunteer retention system (points engine + loyalty tiers)
 
 ---
 
 <p align="center">
-  <i>Always open to conversations about AI, marketing, mental health tech, and building things that matter.</i><br/>
+  <i>Open to AI PM, Senior PM, and TPM roles at AI labs and high-growth tech companies.</i><br/>
   <strong>Let's connect → <a href="mailto:anjali.131garg@gmail.com">anjali.131garg@gmail.com</a></strong>
 </p>
